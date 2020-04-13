@@ -295,6 +295,7 @@ input {
   padding: 0 10px;
   border-radius: 50px;
   height: 22px;
+  float: right;
 }
 
 .container {
